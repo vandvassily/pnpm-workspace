@@ -1,0 +1,22 @@
+{
+  "name": "pnpm-workspace",
+  "version": "1.0.0",
+  "description": "Monorepo base pnpm",
+  "engines": {
+    "node": ">=12.0.0",
+    "pnpm": ">=3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandvassily/pnpm-workspace.git"
+  },
+  "author": "vandvassily",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vandvassily/pnpm-workspace/issues"
+  },
+  "homepage": "https://github.com/vandvassily/pnpm-workspace#readme",
+  "devDependencies": {
+    "typescript": "4.5.5"
+  }
+}
